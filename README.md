@@ -10,33 +10,36 @@ O teste consiste em codificar a interface disponível através do Figma.
 
 Pelo Figma você conseguira exportar todos os assets necessários.
 
-### Você pode..
+### Você esta livre para..
 
-* Utilizar qualquer pré-processador CSS; 
-* Utilizar algum framework CSS;
+* Utilizar o pré-processador CSS que mais te apetece;
+* Utilizar o framework CSS que esta mais esta familiarizado;
 * Utilizar algum framework JavaScript;
 
-### Esperamos que você..
+### Vamos avaliar se você...
 
-* Escreva um código com qualidade;
-* Utilize alguma metodologia para organização do CSS;
-* Construa a interface seguindo boas práticas de design responsivo;
-* Dê suporte a IE10+, Chrome, Safari e Firefox.
+* Escreveu um código seguindo boas práticas;
+* Aplicou alguma metodologia para organização do CSS; 
+* Desenvolveu o layout utilizando boas práticas de design responsivo;
+* Desenvolver uma diretriz de Garantia de Qualidade para garantir a fidelidade da marca, a qualidade do código.
+* Estilo de aplicações Web com espaçamentos adequados, tipografia, títulos, fontes, ícones, margens, preenchimentos, grids e assim por diante.
+* Estilo de aplicações Web com várias resoluções de imagens, mockups para dispositivos, enquanto cuida de diretrizes de design.
+Código HTML, tendo em conta a semântica, acessibilidade, SEO, schemas e microformats.
 
-### Por fim..
 
-A ideia não é prescrever uma receita exata de como o teste deve ser resolvido, por isso, resolva-o da forma que achar melhor. O importante para nós é entender como você codifica uma interface e seu fluxo de trabalho. Além disso, considere que estamos à disposição para qualquer dúvida.
 
-Usamos o mesmo teste para todos os níveis de front: **junior**, **pleno** e **senior**, mas procuramos adequar nossa exigência na avaliação com cada um desses níveis.
+### Conclusão...
+
+A proposta desse desafio é verificar com poucos elementos como é a linha de solução apresentada pelo candidato, sabemos que não existe a bula exata para tal por isso fique tranquilo termos discernimento na avaliação. Tenha em mente que irá trabalhar com um sistema e definir conjunto de componentes e manter seu código escalonavel é de extrema importancia.
 
 ### Entrega
 
 Para nos enviar seu código, você pode:
 
-* Enviar para **marieli@sisand.com.br**  a url do seu repositório no Github;
+* Enviar para **marieli@sisand.com.br** a url do seu repositório no Github;
 * Fazer um fork deste repositório, criar uma branch com o seu nome e enviar um pull request.
 
-## Sobre a SISAND
+## Um pouco sobre a SISAND
 
 Fundada em 2005, a Sisand nasceu com a união de profissionais com experiência no ramo automotivo e amplo conhecimento na área de tecnologia da informação. Ao longo destes anos vem oferecendo ao mercado excelentes soluções.
 
