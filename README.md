@@ -1,4 +1,4 @@
-![Sisand](https://imgur.com/pfwFyJH "Sisand")
+
 
 ## Teste Front-end Developer
 
