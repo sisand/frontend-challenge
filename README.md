@@ -2,14 +2,13 @@
 
 ## Teste Front-end Developer
 
-O teste consiste em codificar a interface disponível através do Zeplin.
+O teste consiste em codificar a interface disponível através do Figma.
 
 ### Para visualizar o layout:
 
-1. Acesse https://zpl.io/2Ee90Ng.
-2. Logue-se com o usuário: **teste**, senha: **teste**.
+1. Acesse https://www.figma.com/file/cw7Tx78omxvueznnKeoql32k/Challenged-Front-end?node-id=1%3A2.
 
-Pelo Zeplin você conseguira exportar todos os assets necessários.
+Pelo Figma você conseguira exportar todos os assets necessários.
 
 ### Você pode..
 
